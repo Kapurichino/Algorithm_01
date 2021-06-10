@@ -1,7 +1,6 @@
 # Algorithm_01 20173239 Bang SungWon   
-(I used tensorflow 2.5 version because error had occured)   
-ERROR: Could not find a version that satisfies the requirement tensorflow==2.0   
-ERROR: No matching distribution found for tensorflow==2.0
+I used tensorflow 2.5 version because error had occured. Installed python version is 3.8.8, and I find the reason below the link   
+https://www.tensorflow.org/install/pip?lang=python3
 ## Models
 ### Model 1 : 3 Layers with 1 Convolution layer
 ![11](https://user-images.githubusercontent.com/31788366/121134953-f8bc9b80-c86e-11eb-9918-f204d9610171.PNG)
